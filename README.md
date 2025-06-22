@@ -44,10 +44,3 @@
 </div>
 
 ###
-
-<br/>
-<br clear="both">
-
-<img src="https://i.pinimg.com/originals/87/f3/f1/87f3f1425b217691da645e97dbb50d55.gif" alt="Code running" height="220" width="90%" padding="2rem"/>
-
-###
