@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112"  />
+<img align="right" height="100" src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112"  />
 
 ###
 
