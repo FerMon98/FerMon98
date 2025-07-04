@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="100" src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112"  />
+<img align="right" height="150" src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112"  />
 
 ###
 
@@ -42,5 +42,11 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/FerMon98/FerMon98/output/snake.svg" alt="Snake animation" />
 
 ###
