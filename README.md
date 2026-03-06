@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Fernanda and I'm a Full Stack Developer + IT Support Engineer from Nicaragua, based in Spain 😊</h2>
+<h2 align="left">Hi 👋 My name is Fernanda and I'm a Full Stack Developer + IT Support Engineer based in Spain 😊</h2>
 
 <img align="right" height="150" src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112" alt="coding gif" />
 
@@ -36,4 +36,4 @@
 
 <br clear="both" />
 
-<img src="https://raw.githubusercontent.com/FerMon98/FerMon98/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/FerMon98/FerMon98/output/snake.svg" height="350" alt="Snake animation" />
